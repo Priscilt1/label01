@@ -6,7 +6,7 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-  "branch": ["main", "next"],
+  "branch": ["master", "next"],
   "type": "git",
   "url": "git@github.com:Priscilt1/label01.git"
-  },
+  }

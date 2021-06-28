@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (request, response) => {
   return response.json({ message: 'Hello Quero', version: packageJson.version })
-  console.log('teste')
+  console.log('testeeee')
 })
 
 app.listen(3333);

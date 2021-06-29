@@ -6,7 +6,7 @@
    "@semantic-release/changelog",
    "@semantic-release/git"
    ],
-  "branches": ["master"],
+  "branches": ["main", "next"],
   "type": "git",
-  "url": "git@github.com:Priscilt1/label01.git"
+  "url": "git@github.com:alanflpns/lab01.git"
 }
